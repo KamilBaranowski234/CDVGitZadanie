@@ -11,4 +11,5 @@
 
 <img src="GitZdjecia/mieso.jpeg" width=800>
 
-- kotlet devolay - 15 zł
+- kotlet devolay   - 15 zł
+- nóżka z kurczaka - 18 zł
