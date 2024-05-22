@@ -1,4 +1,4 @@
-#Opis miejsca
+# Opis miejsca
 
 Restauracja "CDVGitZadanie" to wyjątkowe miejsce, które przenosi swoich gości w podróż kulinarną przez najlepsze tradycje polskiej kuchni.
 Zlokalizowana w sercu miasta, w eleganckim, ale przytulnym wnętrzu, restauracja łączy nowoczesność z klasycznym urokiem.
