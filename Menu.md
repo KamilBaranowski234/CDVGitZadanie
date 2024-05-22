@@ -6,3 +6,7 @@
 - margharitta  -20zł
 - pepperoni    -23zł
 - formaggio    -25zł
+
+## dania mięsne
+
+<img src="GitZdjecia/mieso.jpeg" width=800>
