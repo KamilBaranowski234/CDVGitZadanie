@@ -1,12 +1,23 @@
-Kucharz
+### Kucharz
+
   Jerzy Kowalewski
+  
   Tobiasz Safian
-Pomocnik Kucharza
+  
+### Pomocnik Kucharza
+
   Kuba Cebulski
-Dostawca
+  
+### Dostawca
+
   Andrzej Matusiak
-Kelner
+  
+### Kelner
+
   Teofil Słota
+  
   Korneliusz Buczyński
-Manager
+  
+### Manager
+
   Bartłomiej Bala
