@@ -13,3 +13,4 @@
 
 - kotlet devolay   - 15 zł
 - nóżka z kurczaka - 18 zł
+- kotlet schabowy  - 20 zł
