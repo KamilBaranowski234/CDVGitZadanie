@@ -10,3 +10,5 @@
 ## dania mięsne
 
 <img src="GitZdjecia/mieso.jpeg" width=800>
+
+- kotlet devolay - 15 zł
