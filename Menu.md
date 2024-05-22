@@ -21,3 +21,4 @@
 
 - pomidorowa    - 13zł
 - grzybowa      - 15zł
+- krupnik       - 17zł
