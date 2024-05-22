@@ -18,3 +18,5 @@
 ## Zupy
 
 <img src="GitZdjecia/zupa.jpeg" width=800>
+
+- pomidorowa    - 13zł
