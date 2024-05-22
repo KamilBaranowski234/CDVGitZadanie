@@ -33,3 +33,5 @@
 ## Napoje
 
 <img src="GitZdjecia/napoje.jpeg" width=800>
+
+- szklanka wody 300ml  - 6zł
