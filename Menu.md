@@ -5,3 +5,4 @@
 
 - margharitta  -20zł
 - pepperoni    -23zł
+- formaggio    -25zł
