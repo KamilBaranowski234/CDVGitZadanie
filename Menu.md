@@ -29,3 +29,7 @@
 
 - carbonara  - 22zł
 - bolognese  - 24zł
+
+## Napoje
+
+<img src="GitZdjecia/napoje.jpeg" width=800>
