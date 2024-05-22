@@ -22,3 +22,7 @@
 - pomidorowa    - 13zł
 - grzybowa      - 15zł
 - krupnik       - 17zł
+
+## spaghetti
+
+<img src="GitZdjecia/spaghetti.jpeg" width=800>
