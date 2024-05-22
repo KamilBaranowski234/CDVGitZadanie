@@ -26,3 +26,5 @@
 ## spaghetti
 
 <img src="GitZdjecia/spaghetti.jpeg" width=800>
+
+- carbonara  - 22zł
